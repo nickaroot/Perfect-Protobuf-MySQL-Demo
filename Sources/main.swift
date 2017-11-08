@@ -1,22 +1,3 @@
-//
-//  main.swift
-//  PerfectTemplate
-//
-//  Created by Kyle Jessup on 2015-11-05.
-//	Copyright (C) 2015 PerfectlySoft, Inc.
-//
-//===----------------------------------------------------------------------===//
-//
-// This source file is part of the Perfect.org open source project
-//
-// Copyright (c) 2015 - 2016 PerfectlySoft Inc. and the Perfect project authors
-// Licensed under Apache License v2.0
-//
-// See http://perfect.org/licensing.html for license information
-//
-//===----------------------------------------------------------------------===//
-//
-
 import PerfectLib
 import PerfectHTTP
 import PerfectHTTPServer
@@ -51,6 +32,9 @@ let confData = [
 			"port":8181,
 			"routes":[
 				["method":"get", "uri":"/", "handler":handler],
+                ["method":"get", "uri":"/fetchData", "handler":fetchDataHandler],
+                ["method":"post", "uri":"/send", "handler":sendHandler],
+                ["method":"post", "uri":"/receive", "handler":receiveHandler],
 				["method":"get", "uri":"/**", "handler":PerfectHTTPServer.HTTPHandler.staticFiles,
 				 "documentRoot":"./webroot",
 				 "allowResponseFilters":true]
@@ -72,4 +56,3 @@ do {
 } catch {
 	fatalError("\(error)") // fatal error launching one of the servers
 }
-

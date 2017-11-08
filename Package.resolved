@@ -1,0 +1,133 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "COpenSSL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL-Linux.git",
+        "state": {
+          "branch": null,
+          "revision": "6c75ce4b9e6218d6405a203ef789fbb6f5e72df8",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "cURL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-libcurl.git",
+        "state": {
+          "branch": null,
+          "revision": "672f6695d9ae04fce16ad01decef0649e0b872b0",
+          "version": "2.0.6"
+        }
+      },
+      {
+        "package": "LinuxBridge",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
+        "state": {
+          "branch": null,
+          "revision": "ba9d1fb5be8eb238521206b39bec90a760bb0192",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "mysqlclient",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-mysqlclient-Linux.git",
+        "state": {
+          "branch": null,
+          "revision": "b35cf9671ae9ceb6dec05900b8a69e53ed1985d7",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "PerfectCrypto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "a440ab1dd8d3d87103312f1328bfb1648e7045e3",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "PerfectCURL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CURL.git",
+        "state": {
+          "branch": null,
+          "revision": "b8a7f792cbacf6ce8867958a875952784cb3627e",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "PerfectCZlib",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-CZlib-src.git",
+        "state": {
+          "branch": null,
+          "revision": "2002034d47e9d57a695fb33ad2e09f136868b406",
+          "version": "0.0.3"
+        }
+      },
+      {
+        "package": "PerfectHTTP",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTP.git",
+        "state": {
+          "branch": null,
+          "revision": "605b169a0527c3169cbf672a75efeb5695f5d471",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "PerfectHTTPServer",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-HTTPServer.git",
+        "state": {
+          "branch": null,
+          "revision": "c7ca425d062dca86eab3d6d14e4d91f6dc222db7",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "PerfectLib",
+        "repositoryURL": "https://github.com/PerfectlySoft/PerfectLib.git",
+        "state": {
+          "branch": null,
+          "revision": "fc5186e209f0621fe50390ec1fb02bd9d3ef0e57",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "PerfectMySQL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-MySQL",
+        "state": {
+          "branch": null,
+          "revision": "7c4d7197fb60194cff9d23b7b5ac9b7b5106240b",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "PerfectNet",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Net.git",
+        "state": {
+          "branch": null,
+          "revision": "5e137023e0373b3bdd46a5c80c3ec868fd1c383d",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "PerfectThread",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Thread.git",
+        "state": {
+          "branch": null,
+          "revision": "1846390a47bfe0c5263bb70ba318b2bbe751ac95",
+          "version": "3.0.2"
+        }
+      },
+      {
+        "package": "SwiftProtobuf",
+        "repositoryURL": "https://github.com/apple/swift-protobuf.git",
+        "state": {
+          "branch": null,
+          "revision": "6bfdf201bbb2db4e3b556d415b52f08850207ea7",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
